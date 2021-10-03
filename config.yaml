@@ -1,6 +1,7 @@
-params:
+param:
   epochs: 30
   batch_size: 32
+  num_classes: 10
   loss_function: sparse_categorical_crossentropy
   metrics: accuracy
   optimizer: SGD
