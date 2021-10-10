@@ -21,7 +21,7 @@ def create_model(LOSS_FUNCTION, OPTIMIZER, METRICS, NUM_CLASSES):
 
 
 def get_unique_filename(filename):
-    unique_filename = time.strftime(f"%Y%m%d_%H%M:%S{filename}")
+    unique_filename = time.strftime(f"%Y%m%d_%H%M%S_{filename}")
     return unique_filename
 
 
