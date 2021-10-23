@@ -2,7 +2,7 @@
 
 ANN-implementation-demo
 
-## Important commands ---
+## Important commands --
 
 ## Creating env-
 
